@@ -1,1 +1,1 @@
-learning how to code in C, with Neso Academy.
+learning to code in C, with Neso Academy.

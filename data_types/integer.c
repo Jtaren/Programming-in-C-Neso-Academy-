@@ -1,4 +1,4 @@
-// Wanna know the size programmatically ?
+// Wanna know the sizeof programmatically ?
 // Use "sizeof" operator
 // Sizeof integer is 4 bytes in my machine. May be it is 2 bytes in your machine
 // 2 bytes = 16 bits, 4 bytes = 32 bits the more the size, the more contents it can hold.
