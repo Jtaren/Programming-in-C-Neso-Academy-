@@ -1,5 +1,5 @@
-// An assignment operator is a binary operator. It requires 2 values - L-value and R-value
 // Values to a variable can be assigned using assignment operator
+// An assignment operator is a binary operator. It requires 2 values - L-value and R-value
 // This operator copies R-value to L-value. var (L-value) = (assignment operator) 5 (R-value) ;
 
 // Shorthand Assignment Operators
