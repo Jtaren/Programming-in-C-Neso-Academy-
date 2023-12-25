@@ -21,4 +21,4 @@ int main(){
     a ^= 5;
     printf("%d", printf("%d", a+=3));
     return 0;
-}
+} // output: 51
