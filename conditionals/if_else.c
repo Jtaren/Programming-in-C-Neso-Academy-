@@ -9,7 +9,7 @@
     else
         printf("n is not 4");
 }**/
-int main(){
+/**int main(){
 int n = 4;
 if (n == 4)
 {
@@ -19,4 +19,4 @@ else
 {
     printf("n is not 4");
 }
-}
+}**/
