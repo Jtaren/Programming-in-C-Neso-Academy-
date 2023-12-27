@@ -19,3 +19,4 @@ char fun()
 {
     return 'a';
 }
+// Output: character is: a
