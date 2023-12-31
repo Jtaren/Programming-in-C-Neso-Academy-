@@ -17,6 +17,8 @@ int main()
     int n = 3;
     printf("%d", fun(n));
     return 0;
+    
+    // Output: 3
 }**/
 
 // What is the output of the following C program:
