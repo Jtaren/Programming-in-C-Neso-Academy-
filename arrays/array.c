@@ -36,6 +36,6 @@
 
 /**int arr[10];
    for(i=0; i<10; i++)
-   {                                A more preferred code: int arr[10] = {0};
+   {                               // A more preferred code: int arr[10] = {0};
     arr[i] = 0;
    }
