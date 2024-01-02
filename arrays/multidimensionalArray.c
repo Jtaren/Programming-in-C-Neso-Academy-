@@ -66,7 +66,7 @@
 
  // Printing The elements of 3D Array
  // 3D array elements can be printed using three nested for loops
- int main(){
+ /**int main(){
      int a[2][2][3] = { {{1, 2, 3}, {4, 5, 6}}, {{7, 8, 9}, {10, 11, 12}} };
      for(i=0; i<2; i++)
      {
@@ -78,5 +78,5 @@
              }
          }
      }
- }
+ }**/
 
